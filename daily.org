@@ -1,0 +1,9 @@
+SCHEDULED: <2018-02-19 Sun>
+*** qalc          ~/doc_command/install.sh
+*** hadoop         
+- 
+SCHEDULED: <2018-02-18 Sun>
+*** permissions ~/doc_command/linux.org
+*** fish        ~/.config/fish/config.fish
+*** hadoop      ~/doc_command/hadoop.org
+ERROR: Cannot execute /usr/lib/hadoop/bin/hadoop/libexec/hadoop-config.sh.
