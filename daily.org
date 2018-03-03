@@ -1,9 +1,239 @@
-SCHEDULED: <2018-02-19 Sun>
-*** qalc          ~/doc_command/install.sh
-*** hadoop         
-- 
-SCHEDULED: <2018-02-18 Sun>
-*** permissions ~/doc_command/linux.org
-*** fish        ~/.config/fish/config.fish
-*** hadoop      ~/doc_command/hadoop.org
-ERROR: Cannot execute /usr/lib/hadoop/bin/hadoop/libexec/hadoop-config.sh.
+** TODO keyboard as mouse
+https://en.wikipedia.org/wiki/Mouse_keys
+* hadoop matrix multiplication
+    change bashrc environment
+    $HADOOP_HOME/share/hadoop/mapreduce/hadoop-mapreduce-examples-2.2.0.jar
+    export HADOOP_HOME=/usr/lib/hadoop
+    ↪ hadoop jar $HADOOP_HOME/share/hadoop/mapreduce/hadoop-mapreduce-examples-3.0.0.jar wordcount input output
+* TODO suspend i3 mod4+f
+* ve nha
+** TODO lay
+   dep
+   khan mat
+   dau goi
+   bicus
+   choi tai
+
+* SCHEDULED: <2018-02-26 Mon>
+** TODO org-mode tag tree
+** TODO install tor in archlinux
+** TODO 3 ngay 150
+** TODO 1 ngay 120 hit dat
+
+** DONE to do list done
+   CLOSED: [2018-02-26 Mon 17:10]
+todo insert in org-mode
+C-c a t
+hit t in normal mode org-file
+** DONE xmodmap reset
+   CLOSED: [2018-02-27 Tue 10:55]
+* SCHEDULED: <2018-02-25 Sun>
+** DONE Verifying Hadoop dfs
+   CLOSED: [2018-02-26 Mon 16:15]
+    [coc@free ~]$ sudo start-dfs.sh 
+    Starting namenodes on [free]
+    free: Warning: Permanently added 'free,fe80::c95c:4b52:5679:255a%wlp2s0' (ECDSA) to the list of known hosts.
+    free: coc@free: Permission denied (publickey,password).
+    Starting datanodes
+    localhost: coc@localhost: Permission denied (publickey,password).
+    Starting secondary namenodes [free]
+    free: coc@free: Permission denied (publickey,password).
+    2018-02-25 23:59:15,353 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+** DONE warnings hadoop slaves
+   CLOSED: [2018-02-26 Mon 16:15]
+    [coc@free ~]$ hadoop
+    WARNING: HADOOP_SLAVES has been replaced by HADOOP_WORKERS. Using value of HADOOP_SLAVES.
+    delete slaves in hadoop
+
+    fix /etc/profile.d/hadoop.sh
+
+    export HADOOP_CONF_DIR=/etc/hadoop  
+    export HADOOP_LOG_DIR=/tmp/hadoop/log  
+    export HADOOP_WORKERS=/etc/hadoop/workers  
+    export HADOOP_PID_DIR=/tmp/hadoop/run  
+
+    unset HADOOP_SLAVES
+** DONE 18-21
+   CLOSED: [2018-02-26 Mon 16:15]
+**** chai nuoc
+**** 4 mi tom
+**** phong tu hoc
+** DONE lazada dat hang
+   CLOSED: [2018-02-26 Mon 16:15]
+    Địa chỉ KTX : Kí túc xá Khu A ĐHQG TPHCM, Đông Hòa, DĨ An, Bình DƯơng.
+    Quý khách sẽ thanh toán bằng tiền mặt khi nhận hàng tại nhà
+    Lưu ý:
+    - Bạn nhớ kiểm tra kỹ thông tin của đơn hàng bên phải vì thông tin này sẽ không thể thay đổi sau khi đơn hàng được xác nhận thành công.
+    - Lazada.vn sẽ không gửi tin nhắn xác nhận đơn hàng nên bạn vui lòng xem lại thông tin trong xác nhận đơn hàng được gửi qua email.
+    - Nhằm đảm bảo quyền lợi mua sắm cho các khách hàng cá nhân, Lazada sẽ giới hạn số lượng sản phẩm trong mỗi đơn hàng và chúng tôi xin phép từ chối đơn hàng có dấu hiệu mua đi bán lại.
+    - Hiện tại Lazada chưa thể hỗ trợ giao hàng lên lầu / tầng đối với các địa chỉ thuộc chung cư hoặc tòa nhà cao tầng.
+
+    Trong mọi trường hợp, trừ khi có yêu cầu khác đi, Quý Khách hàng sẽ nhận được hoá đơn theo thông tin cá nhân đã đăng ký khi mua hàng tại Lazada. Để chuyển đổi từ hóa đơn cho cá nhân sang hóa đơn cho doanh nghiệp, Quý Khách hàng vui lòng liên hệ Lazada trong vòng 7 ngày kể từ ngày đặt hàng. Sau thời gian trên, Lazada có toàn quyền từ chối hỗ trợ chuyển đổi.
+    
+
+    Chi tiết đơn hàng 381867253, bao gồm 1 sản phẩm được đặt In
+    Vũ Quang Nam
+    Kí túc xá Khu A ĐHQG TPHCM Toà nhà H1 phòng 402
+    Bình Dương-Thị Xã Dĩ An-Phường Đông Hòa
+    Thư xác nhận đã được gởi tới địa chỉ email doanvuong2008@gmail.com 
+    Economy vận chuyển
+    Giao hàng Thứ Hai, 5 - Thứ Năm, 8 Tháng 3 2018 
+    http://www.lazada.vn/routes/?action=viewOrderTracking&orderNr=381867253&email=doanvuong2008@gmail.com&utm_source=Orderconfirmation&utm_medium=Email&utm_campaign=TrackOrders
+*** gia han wifi
+    a07135424
+    98844107
+    WifiKTX
+    http://login.wifiktx.vn/
+    https://user.meganet.com.vn/#!/
+    https://user.meganet.com.vn/#!/extend
+
+    Key=toiyeu8438626
+*** table insert row
+    new rows ~C-c |~
+*** bash_profile vs bashrc
+    | bash_profile | login shell |
+    |--------------+-------------|
+    | bashrc       | terminal    |
+    http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html
+    Say, you’d like to print some lengthy diagnostic information about your machine
+    each time you login (load average, memory usage, current users, etc). You only
+    want to see it on login, so you only want to place this in your .bash_profile.
+    If you put it in your .bashrc, you’d see it every time you open a new terminal window.
+
+* SCHEDULED: <2018-02-24 Sat>
+** TODO spacemacs git commit multiple file
+** TODO git origin/master and origin master
+** DONE doc_command repos in git ( cannot push )
+    CLOSED: [2018-02-28 Wed 15:50]
+**** ↪ git push -u origin
+     fatal: The current branch origin/master has no upstream branch.
+     To push the current branch and set the remote as upstream, use
+     git push --set-upstream origin origin/master
+****  solved
+     ↪ git push -u origin --all
+     Counting objects: 16, done.
+     Delta compression using up to 4 threads.
+     Compressing objects: 100% (15/15), done.
+     Writing objects: 100% (16/16), 2.47 KiB | 1.24 MiB/s, done.
+     Total 16 (delta 7), reused 0 (delta 0)
+     remote: Resolving deltas: 100% (7/7), completed with 2 local objects.
+     To https://github.com/CocVu/DocCommand
+     * [new branch]      origin/master -> origin/master
+     Branch 'master' set up to track remote branch 'master' from 'origin'.
+     Branch 'origin/master' set up to track remote branch 'origin/master' from 'origin'.
+** DONE fish change to defaults bash
+   CLOSED: [2018-02-28 Wed 15:50]
+    [[/home/coc/.bashrc]]
+    if [ -n "$SSH_TTY" ]; then exec fish -C 'set -g fish_color_host brred'; else exec fish; fi
+** DONE finger in keyboard numbers rows
+   CLOSED: [2018-02-28 Wed 15:50]
+    [[/home/coc/plan/image/typing.png]]
+** DONE orgmode insert image
+   CLOSED: [2018-02-28 Wed 15:50]
+    [+[ link ]+]
+** DONE Thalassophobia
+   CLOSED: [2018-02-28 Wed 15:50]
+    Hội chứng sợ biển hay thalassophobia, bắt nguồn từ tiếng Hi Lạp: thalassa nghĩa là "sea", "biển" và φόβος, phobos là "fear", "sợ")[1] là chứng sợ biển, nỗi ám ảnh kinh hoàng (intense) đến từ sự mênh mông rộng lớn vô tận bí ẩn của đại dương
+* SCHEDULED: <2018-02-23 Fri>
+** DONE git add file and push
+   CLOSED: [2018-02-28 Wed 15:50]
+    +----------+----------+
+    |state     |~gs~      |
+    +----------+----------+
+    |commit    |~cc~      |
+    +----------+----------+
+    |exit      |~C-c C-c~ |
+    |commit    |          |
+    +----------+----------+
+    |push      |~P-m~     |
+    +----------+----------+
+** DONE why charge battery 50% quick? 
+   CLOSED: [2018-02-28 Wed 15:50]
+    http://batteriesbyfisher.com/determining-charge-time
+    While recharging any battery, if the battery becomes hot when you touch it, stop charging it (a battery being charged should not get above 125 ferinheight).
+** DONE tables initializer spacemacs
+   CLOSED: [2018-02-28 Wed 15:50]
+    https://www.emacswiki.org/emacs/TableMode
+    tables capture
+    table mode in org files
+** DONE maintream
+   CLOSED: [2018-02-28 Wed 15:50]
+    in rapgod lyrics
+    I make elevating music, you make elevator music
+    Oh, he's too mainstream
+* SCHEDULED: <2018-02-22 Thu>
+** DONE git in spacemacs
+    CLOSED: [2018-02-28 Wed 16:00]
+* SCHEDULED: <2018-02-20 Tue>
+** DONE hadoop setup environment
+   CLOSED: [2018-02-28 Wed 15:51]
+**** warnings
+     [coc@free ~]$ hadoop
+     WARNING: HADOOP_SLAVES has been replaced by HADOOP_WORKERS. Using value of HADOOP_SLAVES.
+**** ~/etc/hadoop/hadoop-env.sh~
+     export JAVA_HOME=/usr/lib/jvm/java-8-openjdk/
+
+**** ~/etc/profile.d/hadoop.sh~
+     HADOOP_USERNAME="hadoop"
+     . /etc/profile.d/hadoop.sh* fish change color
+** DONE paste in insert mode spacemacs
+   CLOSED: [2018-02-28 Wed 15:51]
+C-a paste clip-board
+** DONE Play_Dungeons_Forever (steam)
+   CLOSED: [2018-02-27 Tue 19:42]
+    archlinux defragment disk 
+** ✓
+*** Environment variable warnings spacemacs
+    (setq exec-path-from-shell-arguments '("-l"))
+    https://github.com/syl20bnr/spacemacs/issues/3920
+
+* SCHEDULED: <2018-02-19 Mon>
+** DONE hadoop setup environment
+    CLOSED: [2018-02-28 Wed 15:51]
+**** errors
+     [coc@free ~]$ whereis hadoop
+     hadoop: /usr/bin/hadoop /usr/lib/hadoop /etc/hadoop
+     [coc@free ~]$ cat /usr/bin/hadoop 
+     #!/bin/sh
+     # Automatically generated by hadoop-3.0.0 PKGBUILD from Arch Linux AUR
+     # https://aur.archlinux.org/
+     for f in /etc/profile.d/*.sh; do
+     . "${f}"
+     done
+     /usr/lib/hadoop/bin/hadoop "$@"
+**** environment variables
+     ~/etc/profile.d/hadoop.sh~
+     HADOOP_CONF_DIR 	/etc/hadoop 	Where configuration files are stored. 	Read
+     HADOOP_LOG_DIR 	/tmp/hadoop/log 	Where log files are stored. 	Read and Write
+     HADOOP_SLAVES 	/etc/hadoop/slaves 	File naming remote slave hosts. 	Read
+     HADOOP_PID_DIR 	/tmp/hadoop/run 	Where pid files are stored. 	Read and Write 
+** DONE fix doc_command git repos 
+    CLOSED: [2018-02-28 Wed 15:51]
+    [coc@free doc_command]$ git push -u origin master 
+    Branch 'master' set up to track remote branch 'master' from 'origin'.
+    Everything up-to-date
+** DONE fish change color
+    CLOSED: [2018-02-28 Wed 15:51]
+    open fish
+    fish_config
+** DONE paste in insert mode spacemacs
+   CLOSED: [2018-02-28 Wed 15:53]
+** DONE org-mode get ticks symbols 
+    CLOSED: [2018-02-28 Wed 15:54]
+    symbol-list link
+    https://orgmode.org/worg/org-symbols.html
+** DONE qalc  
+    CLOSED: [2018-02-28 Wed 15:54]
+    ~/doc_command/install.sh
+    C-a insert mode
+* SCHEDULED: <2018-02-18 Sun>
+** DONE permissions 
+   CLOSED: [2018-02-28 Wed 15:54]
+    ~/doc_command/linux.org
+** DONE fish install 
+   CLOSED: [2018-02-28 Wed 15:54]
+    ~/.config/fish/config.fish
+** DONE hadoop install
+   CLOSED: [2018-02-28 Wed 15:54]
+    ~/doc_command/hadoop.org
+    ERROR: Cannot execute /usr/lib/hadoop/bin/hadoop/libexec/hadoop-config.sh.
