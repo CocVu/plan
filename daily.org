@@ -137,16 +137,12 @@ hit t in normal mode org-file
 * SCHEDULED: <2018-02-23 Fri>
 ** DONE git add file and push
    CLOSED: [2018-02-28 Wed 15:50]
-    +----------+----------+
-    |state     |~gs~      |
-    +----------+----------+
-    |commit    |~cc~      |
-    +----------+----------+
-    |exit      |~C-c C-c~ |
-    |commit    |          |
-    +----------+----------+
-    |push      |~P-m~     |
-    +----------+----------+
+   | state  | ~gs~      |
+   | commit | ~cc~      |
+   | exit   | ~C-c C-c~ |
+   | commit |           |
+   | push   | ~P-m~     |
+
 ** DONE why charge battery 50% quick? 
    CLOSED: [2018-02-28 Wed 15:50]
     http://batteriesbyfisher.com/determining-charge-time
