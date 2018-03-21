@@ -1,5 +1,17 @@
-* ×
-** TODO RAM
+* TODO phone
+** classic
+   -review camera
+   https://www.phonearena.com/reviews/BlackBerry-Classic-Review_id3900/page/3#image-171375
+** than long 
+* TODO laptop
+ThinkPad X1 Carbon (6th Gen)
+https://www3.lenovo.com/gb/en/laptops/thinkpad/x-series/ThinkPad-X1-Carbon-6th-Gen/p/22TP2TXX16G
+lte
+2k5$
+phần khung và vỏ máy được làm bằng Magie và Carbon cao cấp được phủ một lớp cao su khá mềm mại và êm ái
+* TODO Bàn kê laptop đa năng + Tặng kèm giá đỡ điện thoại máy tính bảng   
+https://www.lazada.vn/ban-ke-laptop-da-nang-tang-kem-gia-do-dien-thoai-may-tinh-bang-2535535.html?spm=a2o4n.other.0.0.4a944798aeij8L
+* TODO RAM
 https://nhattao.com/threads/ram-laptop-8gb-ddr3-bus-1333-1066-1600-pc3-tphcm.5785300/
 ram laptop
 mình có 2 thành 2x2gb bus 1333 ddr3
@@ -10,25 +22,36 @@ thì bù bao nhiêu ad
 428 HOÀ HẢO ,PHƯỜNG 5,QUẬN 10,TPHCM 
 
 Bù 550k nhé bạn ! 
-** TODO combo raspberrypi3
+* TODO Máy Hút Bụi 2 Chiều hút thổi Mini
+   https://shopee.vn/M%C3%A1y-H%C3%BAt-B%E1%BB%A5i-2-Chi%E1%BB%81u-h%C3%BAt-v%C3%A0-th%E1%BB%95i-Mini-Vacuum-Cleaner-th%C3%B4ng-minh-i.6145207.44037006, 309d
+   314d
+* TODO Chuột
+*** Chuột quang không dây Logitech B170 (Đen) - Hãng phân phối chínhthức
+ https://www.lazada.vn/chuot-quang-khong-day-logitech-b170-den-hang-phan-phoichinhthuc-3199082.html?spm=a2o4n.searchlist.list.4.727d51cc7jYq6A
+ 139d
+*** Chuột không dây Forter V189 (Đen)   
+https://www.lazada.vn/chuot-khong-day-forter-v189-den-13475903.html?spm=a2o4n.searchlist.list.84.727d51ccQKHLgE
+59d
+
+* TODO lego
+* TODO 3d print
+* TODO combo raspberrypi3
    https://raspberrypi.vn/shop/mach-raspberry-pi/raspberry-pi-3-official-combo, 1760d
+* TODO ban phim 
+config the layers esc in capslock 
+** thinest mechanical keyboard layer mini
 ** TODO dk87
 -redswitch black
-http://zpro.vn/ban-phim-co-dare-u-dk87/p711.html , 580d
+http://zpro.vn/ban-phim-co-dare-u-dk87/p711.html ,
+580d
 ** TODO ban phim co 60%
-** TODO dong ho
+** TODO The Slimmest Mechanical Keyboard Aroun
+   Kailh PG1350 
+* TODO dong ho
 Đồng Hồ Nam Dây Nhựa Casio DM433 (4.5 x 4 cm) - Đen
 https://tiki.vn/dong-ho-nam-day-nhua-casio-dm433-4-5-x-4-cm-den-p985440.html?src=category-page
 239d
-** TODO laptop
-ThinkPad X1 Carbon (6th Gen)
-https://www3.lenovo.com/us/en/cart/9304a070-ffbc-4584-9bdd-9aae5963e748?activeTabName=&transMessageFlag=true
-2k2$
-** TODO Máy Hút Bụi 2 Chiều hút thổi Mini
-   https://shopee.vn/M%C3%A1y-H%C3%BAt-B%E1%BB%A5i-2-Chi%E1%BB%81u-h%C3%BAt-v%C3%A0-th%E1%BB%95i-Mini-Vacuum-Cleaner-th%C3%B4ng-minh-i.6145207.44037006, 309d
-
-* ✓
-** DONE Bàn phím Logitech K120 (Đen)  
+* DONE Bàn phím Logitech K120 (Đen)  
    CLOSED: [2018-02-28 Wed 16:14]
     https://www.lazada.vn/ban-phim-logitech-k120-den-116921.html?spm=a2o4n.searchlistcategory.list.1.3a5f5044BgwGfd
     124d
@@ -36,7 +59,17 @@ https://www3.lenovo.com/us/en/cart/9304a070-ffbc-4584-9bdd-9aae5963e748?activeTa
 ** regular
 *** cacao powder
 *** milk
+*** Hạt Kê - món ăn trường thọ 
+    http://suckhoedoisong.vn/hat-ke-mon-an-truong-tho-n100101.html
+*** Tràng Phục Linh Plus
+    hiện nay đang được bán rộng rãi tại các hiệu thuốc lớn trên toàn quốc. Giá sản phẩm hiện nay được bán từ 185.000đ – 198.000đ/ hộp tùy từng nhà thuốc.
+** TODO kẹo thuốc ( kẹo bà giằng )
+** TODO 5 LOBSTER DISHES at FAN'S CHINESE RESTAURANT in NOVA SCOTIA CANADA.
+https://www.youtube.com/watch?v=FboTh7IueY0
 ** TODO Xếp hàng đợi ăn tô mì vịt tiềm 90.000 đồng hơn 20 năm ở Sài Gòn
    https://www.youtube.com/watch?v=S4n3RGJxc2o
+** TODO Xe chè Tàu - Lâm Vinh Mậu của hai anh em 60 năm ở Sài Gòn chưa lúc nào vắng khách
+https://www.youtube.com/watch?v=HiLlFRoAkkc
 ** TODO Nem chua
    http://www.ngonmoingay.com/nem-chua-thanh-hoa.html
+   

@@ -1,0 +1,688 @@
+* spacemacs install autocompletion in any file
+* giam bot lo lang
+  https://beautifulmindvn.com/2015/09/06/9-cach-de-giam-su-lo-lang-ngay-tai-day-va-ngay-bay-gio/
+
+  1 Hãy hít thở sâu.
+
+  “Điều đầu tiên phải làm khi bạn lo lắng là hít thở” Tom Corboy, MFT, người sáng lập, giám đốc điều hành của
+  Trung tâm OCD tại Los Angeles, đồng tác giả của cuốn “The Mindfulness Workbook for OCD”, nói.
+
+  Hít thở sâu bằng cơ hoành là phương pháp giảm lo âu hiệu quả vì nó kích hoạt khả năng thư giãn của cơ thể. Nó
+  giúp cơ thể chuyển các phản ứng hoạt động ở hệ thần kinh giao cảm thành các phản ứng thư giãn ở hệ thần kinh
+  đối giao cảm, Marla W. Deibler, PsyD, bác sĩ tâm lí lâm sàng và giám đốc của The Center for Emotional Health of
+  Greater Philadelphia, LLC nói.
+
+  Bà đề nghị luyện tập như sau: “Cố gắng hít vào từ từ khi đếm tới 4, đầu tiên hãy hít đầy bụng và sau đó là ngực,
+  cố gắng giữ hơi thở của bạn trong vòng 4 tiếng đếm, sau đó từ từ thở ra cũng trong vòng 4 tiếng đếm và lặp đi lặp
+  lại nhiều lần”.
+
+  2 Chấp nhận là bạn đang lo lắng.
+
+  Hãy nhớ rằng “Lo âu chỉ là một loại cảm xúc, nó giống như bất kì loại cảm xúc khác”, phát biểu bởi Deibler, đồng
+  thời là tác giả của Psych Central blog “Therapy That Works.” Bằng cách nhắc nhở bản thân rằng lo âu chỉ là một
+  phản ứng của cảm xúc, bạn có thể bắt đầu chấp nhận nó, Corboy nói.
+
+  Chấp nhận là điều quan trọng vì cố gắng giảm thiểu một cách thấp nhất hay loại bỏ sự lo âu chỉ làm cho nó nặng
+  thêm. Nó chỉ kéo dài thêm ý nghĩ về sự lo lắng của bạn là không thể chịu đựng được.
+
+  Tuy nhiên, việc chấp nhận không có nghĩa là bạn phải thích nó hay cho phép bản thân được quyền đau khổ.
+
+  “Nó chỉ có nghĩa là bạn sẽ được hưởng lợi khi chấp nhận thực tại như nó đang là – vào thời điểm đó, thực tại bao
+  gồm lo lắng. Điểm mấu chốt ở đây là cảm giác lo lắng sẽ nhẹ hơn so với những gì chúng ta “lý tưởng hoá” nó lên,
+  nhưng nó không phải là không thể chịu đựng được.”
+
+  3 Nhận ra rằng não bạn đang “lừa gạt” bạn
+
+  Bác sĩ thần kinh, Kelli Hyland, M.D, đã chứng kiến làm cách nào để não một người khiến họ cảm thấy rằng họ
+  đang chết dần vì đau tim trong khi thật ra, họ chỉ đang bị một cơn hoảng loạn tấn công mà thôi. Bà kể lại rằng bà
+  có được kinh nghiệm ấy khi còn là một sinh viên y khoa.
+
+  “Tôi đã thấy người lên cơn đau tim và người bị hoảng loạn mà nhìn nhận nó trên cơ sở y tế thì trông có vẻ giống
+  hệt nhau. Bằng một cách khôn ngoan, ân cần và đầy kinh nghiệm, vị bác sĩ tâm thần đã nhẹ nhàng đến bên cạnh
+  và bình tĩnh nhắc nhở bệnh nhân của mình rằng ông ta không phải đang chết, mọi thứ sẽ qua đi và chỉ là não ông
+  ấy đang giở trò thôi. Điều đó cũng đồng thời trấn an tôi và cả hai chúng tôi đã ở lại cùng bệnh nhân đến khi cơn
+  hoảng loạn qua đi.”
+
+  Hiện tại, tiến sĩ Hyland, người sở hữu một phòng khám tư nhân ở Salt Lake City, Utah, đã nói với người bệnh của
+  cô ấy điều tương tự. “Điều này giúp loại bỏ sự xấu hổ, cảm giác tội lỗi, áp lực, trách nhiệm phải sửa chữa bản thân
+  hay tự phán xét trong khi bản thân đang trong tình trạng cần được chăm sóc hơn bao giờ hết.”
+
+  4 Đặt nghi vấn cho những suy nghĩ của bạn
+
+  “Khi mọi người đang lo lắng, não của họ bắt đầu đầy ấp đủ thể loại ý tưởng kì lạ, rất nhiều trong số chúng cực kì
+  không thực tế và không thể xảy ra.” Corboy nói. Và những suy nghĩ đó chỉ làm tăng cao tình trạng lo âu sẵn có của
+  bản thân.
+
+  Ví dụ, nói về việc bạn giao bánh cưới. Suy nghĩ như “Chúa ơi, tôi không thể làm được, điều đó sẽ giết tôi mất” có
+  lẽ sẽ chạy vụt ngang não bạn.
+
+  Tuy nhiên hãy nhắc nhở bản than bạn, đó chả phải là tai họa lớn lao gì, và trên thực tế, sẽ không ai chết khi giao
+  bánh cưới cả, Corboy nói.
+
+  “Vâng, có lẽ bạn lo lắng, và có lẽ bạn thậm chí là nhầm lẫn bánh cưới của bạn. Nhưng điều tội tệ nhất sẽ xảy ra là
+  một số người, rất nhiều người trong số họ sẽ không còn được gặp lại bạn, một vài người sẽ chỉ cười khúc khích, và
+  rằng ngày mai họ sẽ hoàn toàn quên mất việc ấy.”
+
+  Deibler đồng thời cũng đề nghị bạn tự hỏi bản thân để thách thức suy nghĩ của bạn:
+
+* Những điều lo lắng có phải là thật không? 
+* Nó có thật sự có khả năng xảy ra không? 
+* Nếu điều tồi tệ nhất xảy ra, vậy điều đó sẽ tệ như thế nào? 
+* Mình có thể giải quyết nó không? 
+* Mình nên làm gì? 
+* Nếu một vài điều xấu xảy ra, những điều ấy có ý nghĩa thế nào với mình? 
+* Nó có phải là sự thật hay nó chỉ có vẻ giống vậy? 
+* Mình cẩn chuẩn bị những gì để phòng ngừa mọi việc có thể xảy đến? 
+
+  1 Sử dụng việc tưởng tượng để bình tĩnh
+
+  Hyland đề nghị luyện tập các suy nghĩ dưới đây thường xuyên, điều sẽ làm mọi thứ trở nên dễ dàng hơn khi bạn lo
+  lắng.
+
+  “Tưởng tượng bản thân đang ở bờ sông hoặc bên ngoài một công viên yêu thích, cánh đồng hoặc bãi biển. Ngắm
+  nhìn lá cây bay qua con sông hoặc những đám mây trôi qua bầu trời. Sắp xếp cảm xúc của bạn, suy nghĩ về cảm
+  giác với những đám mây và những chiếc lá, hãy cứ ngắm nhìn chúng trôi nổi.”
+
+  Điều này khá khác biệt so với những thứ mọi người thường làm. Thông thường, chúng ta sắp xếp cảm xúc, suy
+  nghĩ và các cảm giác vật lí bằng khả năng hoặc sự phán xét, ví dụ như tốt và xấu, đúng và sai, Hyland nói. Và
+  điều này thường làm phóng đại nỗi lo âu. Hãy nhớ rằng “tất cả đều chỉ là thông tin mà thôi.”
+
+  Gift House by KL. 
+
+  Gift House by KL.
+
+  1 Hãy là một người quan sát – đừng phán xét.
+
+  Hyland đưa cho những bệnh nhân mới những tấm thẻ 3×5 với dòng chữ viết phía trên:
+
+  “Luyện tập khả năng quan sát (suy nghĩ, cảm giác, cảm xúc, giác quan và sự phán xét) với lòng trắc ẩn, hoặc là
+  không có sự phán xét.
+
+  “Tôi có những bệnh nhân trở lại sau hàng tháng hoặc hàng năm, nói rằng họ vẫn giữ tấm thẻ trên gương hoặc trên
+  kính xe của họ, và chúng đã giúp ích cho họ.”
+
+  1 Sử dụng khả năng tự nói tích cực
+
+  Lo âu có thể tạo ra rất nhiều cuộc trò chuyện tiêu cực. Hãy tự nói với bản thân “Những câu nói ứng phó tích cực”,
+  Deibler nói. Ví dụ, bạn có thể nói “cảm giác lo lắng này thật tệ, nhưng tôi có thể sử dụng những chiến lược để quản
+  lí nó.”
+
+  1 Tập trung vào hiện tại
+
+  “Khi mà người ta lo lắng, họ thường bị ám ảnh về một vài thứ có thể xảy ra trong tương lai.” Corboy nói. Thay vào
+  đó, hãy dừng lại, hít thở sâu và tập trung vào những gì đang xảy ra ngay lúc này, ông ấy nói. Kể cả khi một số thứ
+  nghiêm trọng có thể xảy ra, việc tập trung vào hiện tại sẽ cải thiện khả năng quản lí tình huống của bạn, ông thêm
+  vào.
+
+  1 Tập trung vào những hoạt động có ý nghĩa.
+
+  Khi bạn đang cảm thấy lo âu, nó đồng thời cũng giúp tập trung vào những “hoạt động ý nghĩa, có định hướng tốt”,
+  Corboy nói. Ông đề nghị bạn tự hỏi bản thân điều gì bạn muốn làm nếu bạn không bị lo lắng.
+
+  Nếu bạn có ý định đi xem một bộ phim, cứ đi đi. Nếu bạn có ý định giặt giũ, hãy cứ làm.
+
+  “Điều tệ nhất bạn có thể làm khi lo âu là ngồi một chỗ thụ động và ám ảnh về những gì mình đang cảm thấy”. Làm
+  những điều cần thiết sẽ dạy cho bạn những bài học chủ chốt, ông nói: ra ngoài sẽ làm cho đầu bạn cảm thấy thoải
+  mái hơn; bạn có khả năng sống cuộc đời của riêng mình kể cả khi bạn bị lo âu, và bạn sẽ hoàn thành được mọi
+  chuyện.
+
+  “Nói cho cùng, hãy bận bịu với những công việc trong cuộc sống. Đừng cứ ngồi đó và tập trung vào sự lo lắng – sẽ
+  chẳng có gì tốt đẹp đến đâu.”
+* im failed need help
+
+** 1. You don’t reach out to new people
+
+   It’s easy to stick to people you’ve known for a long time. You know each other’s histories and can laugh at inside
+   jokes together. The problem with old friends, though, is that the same ideas are recycled over and over again,
+   and you don’t get to learn new perspectives outside of your bubble.
+
+   It can be tough to reach out at first to new people, but starting small can help. Aim for a low goal initially, such as
+   introducing yourself to one person a week.
+
+   “You have to fight to reach your dream. You have to sacrifice and work hard for it.” — Lionel Messi
+
+** 2. You are averse to change
+
+   Being in the same environment for a long time makes it hard to adapt to something new. The good news is that
+   change presents a chance for opportunities and innovation.
+
+   Instead of resisting changes, see how you can make the best of them. Maybe you can cater to a growing
+   businesses need or see a different perspective.
+
+   Be open to new concepts and curious about the world around you.
+
+** 3. You’re not willing to take risks
+
+   Smart people often choose the safe route. They might follow the same path as their peers or choose a career
+   because it’s considered acceptable by their peers.
+
+   While this guarantees a degree of security, it can be mundane. I hear so often from smart people that they find
+   their jobs unfulfilling and that they want to do something else, but are afraid to do so.
+
+   If you’re thinking about branching out into unfamiliar territory, consider what your life will be like decades from
+   now if you opt not to pursue something. Will you regret it, or will you be happy with your decision?
+
+** 4. You believe you deserve success based on credentials
+
+   People that worked hard in school are used to being at the top and told how much potential they show. This
+   seems good initially, but there are some negative side effects.
+
+   I’ve heard people claim they deserve something because of their intelligence or where they went to school. They
+   expect things to pan out automatically because of their credentials. Sadly, though, life doesn’t work like that.
+
+   In the real world, you don’t get results based on the work you put in. You get results based on the combination of
+   hard work, strategic thinking, and some luck involved. You can increase that last factor by working on the first
+   two.
+
+** 5. You constantly go after whatever’s exciting at the moment
+
+   One thing I hear often from high achievers is that they hate wasting time. Smart people are all too aware of the
+   value of their time, as time and effort spent on one thing means that they could potentially be missing out on
+   something else.
+
+   While this is a strong attribute, it also means chasing the next big thing and not following through. Starting out in
+   any field or endeavor is tough, and getting through the initial obstacles requires patience.
+
+   Focusing effort on one goal yields much better results in the long run than going after one thing, getting bored,
+   and then going after something new.
+
+** 6. You can’t commit to a decision
+
+   Being smart and working hard can open up numerous doors. Unfortunately, having too many options can be as
+   restricting as having few choices.
+
+   An abundance of choices makes it difficult to decide what to do. As a result, it’s tempting to jump around and
+   “see what suits you”. I knew someone who attended numerous graduate school programs, one after another.
+   Over ten years later, she still can’t figure out what to do.
+
+   Rather than dabbling in many endeavors, I suggest testing things out first. Talk to other people and do the
+   research before making a big decision, so that you know whether or not an option suits your personality and
+   lifestyle.
+
+** 7. You don’t believe in yourself
+
+   Surprisingly, smart people can underestimate their own abilities. They are their own worst critic, causing them to
+   believe that they can’t accomplish as much as they can.
+
+   Smart people have high standards when it comes to their work. Whenever they work on a project, they tend to
+   scrutinize and second-guess the final product.
+
+   This seems like a good thing on the surface, but it’s often more debilitating than helpful. Perfectionism can
+   hinder people from progressing forward in their goals or starting on anything in the first place.
+
+   “It’s difficult to believe in yourself because the idea of self is an artificial construction. You are, in fact, part
+   of the glorious oneness of the universe. Everything beautiful in the world is within you.” — Russell Brand
+
+   So instead of letting fears of “what if” or “I’m not good enough” keep you back from something new, think of how
+   you want your life to look like years from now. Getting started beats waiting for something to happen anytime.
+
+   What will you do today to get closer to your success? What are some things that have been holding you back?
+* mpi share array 
+  https://stackoverflow.com/questions/37197108/using-a-shared-array-in-message-passing-interface
+* Automatically generated profile by wifi-menu
+  ● netctl@wlp2s0\x2dWifiKTX.service - Automatically generated profile by wifi-menu
+  Loaded: loaded (/etc/systemd/system/netctl@wlp2s0\x2dWifiKTX.service; static; vendor preset: disabled)
+  Active: failed (Result: exit-code) since Thu 2018-03-15 18:18:28 +07; 1min 27s ago
+  Docs: man:netctl.profile(5)
+  Process: 715 ExecStart=/usr/lib/netctl/network start wlp2s0-WifiKTX (code=exited, status=1/FAILURE)
+  Main PID: 715 (code=exited, status=1/FAILURE)
+
+  Mar 15 18:18:28 free systemd[1]: Starting Automatically generated profile by wifi-menu...
+  Mar 15 18:18:28 free network[715]: Starting network profile 'wlp2s0-WifiKTX'...
+  Mar 15 18:18:28 free network[715]: The interface of network profile 'wlp2s0-WifiKTX' is already up
+  Mar 15 18:18:28 free systemd[1]: netctl@wlp2s0\x2dWifiKTX.service: Main process exited, code=exited, status=1/FAILURE
+  Mar 15 18:18:28 free systemd[1]: netctl@wlp2s0\x2dWifiKTX.service: Failed with result 'exit-code'.
+  Mar 15 18:18:28 free systemd[1]: Failed to start Automatically generated profile by wifi-menu.
+* [student@l01ip21 ~]$ lscpu 
+  Architecture:          x86_64
+  CPU op-mode(s):        32-bit, 64-bit
+  Byte Order:            Little Endian
+  CPU(s):                48
+  On-line CPU(s) list:   0-47
+  Thread(s) per core:    2
+  Core(s) per socket:    12
+  Socket(s):             2
+  NUMA node(s):          2
+  Vendor ID:             GenuineIntel
+  CPU family:            6
+  Model:                 63
+  Model name:            Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+  Stepping:              2
+  CPU MHz:               2497.079
+  BogoMIPS:              5003.31
+  Virtualization:        VT-x
+  L1d cache:             32K
+  L1i cache:             32K
+  L2 cache:              256K
+  L3 cache:              30720K
+  NUMA node0 CPU(s):     0-11,24-35
+  NUMA node1 CPU(s):     12-23,36-47
+
+* DONE add song 
+  CLOSED: [2018-03-14 Wed 16:31]
+  the one that got away
+  unconditionally
+  roar
+* TODO check org in mobile
+** in android
+** in plasma
+** in blackberry
+* TODO seperate pdf file linux command
+* TODO sd card reader information read speed
+  compare sd card and ram 
+  lg f240k
+  https://www.devicespecifications.com/en/model/0eb2278f
+  ram 2G lpddr3 600MHz
+  - The Phone Storage usually refers to a section of the internal memory that holds the device’s data and other files that are necessary for the device to run.
+    These files are often also referred to as system files.
+  - Internal Storage, on the other hand, refers to the segment which holds normal files such as photos, music, documents, etc.
+    This is the segment that is available to the user for their use.
+  - frequence
+* TODO install linux os on lg g4
+  plasma  archlinux
+  dual boot android
+* DONE get information pc
+  CLOSED: [2018-03-14 Wed 16:07]
+  mb7400 81t
+  core i5 7400
+  fake link DO NOT buy it
+* TODO 3d viewer in linux
+* DONE entertainment
+  CLOSED: [2018-03-14 Wed 07:24]
+  https://www.youtube.com/watch?v=y019bS1rcIs
+  TOP 5 ÂM THANH ĐÁNG SỢ NHẤT ĐƯỢC GHI ÂM LẠI ♥ THẾ GIỚI BÍ ẨN BUSINESS | INTERNET TRAVEL
+
+  thin machenical keyboard redswitch 87 key
+
+* DONE zsh-autocompletion
+  CLOSED: [2018-03-13 Tue 11:26]
+  git clone git://github.com/zsh-users/zsh-autosuggestions ~/oh-my-zsh/custom/plugins/zsh-autosuggestions
+  https://misc.flogisoft.com/bash/tip_colors_and_formatting
+* DONE archlinux blackberry 9900* sci hub
+  CLOSED: [2018-03-14 Wed 16:14]
+  archlinux blackberry 9900
+  not available
+* DONE drag mouse with xdotool
+  CLOSED: [2018-03-14 Wed 16:14]
+  shift f in i3wm
+* DONE electrization laptop
+  CLOSED: [2018-03-14 Wed 16:15]
+  should not fix it too troublesome
+* translate buffer to ibus
+  translate english to vietnamese via buffer
+* stardict add pronoun
+  http://xdata.vn/Ho-tro/c58-69/Huong-dan-cai-dat-tu-dien-Stardict-tren-Ubuntu.html
+* TODO hadoop find max
+  https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html
+** fix 
+   stop-all.sh
+   hadoop namenode -format
+   start-all.sh
+
+** ~/parallel_proccessing/asm/hosts
+
+   [coc@free ~]$ hadoop jar $HADOOP_HOME/share/hadoop/mapreduce/hadoop-mapreduce-examples-2.7.5.jar wordcount input output
+   18/03/07 21:10:35 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+   18/03/07 21:10:37 INFO client.RMProxy: Connecting to ResourceManager at /0.0.0.0:8032
+   java.net.ConnectException: Call From free/172.16.5.47 to localhost:9000 failed on connection exception: java.net.ConnectException: Connection refused; For more details see:  http://wiki.apache.org/hadoop/ConnectionRefused
+   bin/hadoop jar share/hadoop/mapreduce/hadoop-mapreduce-examples-2.9.0.jar grep input output 'dfs[a-z.]+'
+
+** telnet localhost 9000
+   telnet: Unable to connect to remote host: Connection refused
+   To enable telnet server connections in systemd, enable telnet.socket if the telnet server should be started on every boot, and start telnet.socket to test connectivity.
+   To enable telnet server connections in xinetd, edit /etc/xinetd.d/telnet, change disable = yes to disable = no and restart the xinetd service. 
+
+   sudo systemctl start telnet.socket
+   hadoop jar $HADOOP_HOME/share/hadoop/mapreduce/hadoop-mapreduce-examples-2.9.0.jar wordcount input output
+   hadoop jar share/hadoop/mapreduce/hadoop-mapreduce-examples-2.7.5.jar wordcount input output
+
+   export JAVA_HOME=/usr/lib/jvm/java-8-openjdk/jre
+* DONE add file .alias in zshrc and bashrc
+  CLOSED: [2018-03-08 Thu 23:29]
+  bira themes
+  [[ -f ~/.aliases ]] && . ~/.aliases
+* DONE create dotfiles
+  CLOSED: [2018-03-08 Thu 18:34]
+  https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/
+** What is the difference between a repository created using the git init command and the git init --bare command?
+   http://www.saintsjd.com/2011/01/what-is-a-bare-git-repository/
+   Repositories created with git init --bare are called bare repos.
+   They are structured a bit differently from working directories.
+   First off, they contain no working or checked out copy of your source files.
+   And second, bare repos store git revision history of your repo in the root folder
+   of your repository instead of in a .
+   git subfolder. Note… bare repositories are customarily given a .git extension.
+
+** command
+   git init --bare $HOME/.cfg
+   alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
+   config config --local status.showUntrackedFiles no
+   # echo "alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'" >> $HOME/.bashrc
+   # echo "alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'" >> $HOME/.bashrc
+* DONE .zprofile add startx 
+  CLOSED: [2018-03-08 Thu 18:34]
+  [[~/.zprofile]]
+  [[ -z $DISPLAY && $XDG_VTNR -eq 1 ]] && exec startx
+
+* DONE goi ba' 8/3
+  CLOSED: [2018-03-08 Thu 20:30]
+* DONE Bash-it/bash-it compare oh-my-zsh
+  CLOSED: [2018-03-08 Thu 20:30]
+* DONE spacemacs oh-my-zsh
+  CLOSED: [2018-03-08 Thu 10:59]
+  https://stackoverflow.com/questions/45780419/how-to-customise-oh-my-zsh-within-a-spacemacs-shell
+  (shell :variables
+  shell-default-shell 'ansi-term
+  shell-default-height 30
+  shell-default-term-shell "/bin/zsh"
+  shell-default-position 'bottom)
+  Inside dotspacemacs/user-config:
+  (setq ns-use-srgb-colorspace nil)
+  ;; (setq powerline-default-separator 'utf-8)
+  ;; Theme Customizations
+  (setq theming-modifications
+  '((solarized
+  ;; Provide a sort of "on-off" modeline whereby the current buffer has a nice
+  ;; bright blue background, and all the others are in cream.
+  ;; TODO: Change to use variables here. However, got error:
+  ;; (Spacemacs) Error in dotspacemacs/user-config: Wrong type argument: stringp, pd-blue
+  (mode-line :foreground "#e9e2cb" :background "#2075c7" :inverse-video nil)
+  (powerline-active1 :foreground "#e9e2cb" :background "#2075c7" :inverse-video nil)
+  (powerline-active2 :foreground "#e9e2cb" :background "#2075c7" :inverse-video nil)
+  (mode-line-inactive :foreground "#2075c7" :background "#e9e2cb" :inverse-video nil)
+  (powerline-inactive1 :foreground "#2075c7" :background "#e9e2cb" :inverse-video nil)
+  (powerline-inactive2 :foreground "#2075c7" :background "#e9e2cb" :inverse-video nil)
+  ;; Make a really prominent helm selection line.
+  (helm-selection :foreground "white" :background "#2075c7" :inverse-video nil)
+  ;; See comment above about dotspacemacs-colorize-cursor-according-to-state.
+  (cursor :background "#b58900")
+  )))
+* DONE ssd check 
+  CLOSED: [2018-03-08 Thu 23:30]
+  ổ cứng chuẩn 2.5 Inch
+  ssd m2 pcie
+* TODO add su
+* DONE default wifi-menu
+  CLOSED: [2018-03-07 Wed 10:08]
+** netctl reenable wlp2s0-WifiKTX 
+   Job for netctl@wlp2s0\x2dWifiKTX.service failed because the control process exited with error code.
+   Job for netctl@wlp2s0 failed because the control process exited with error code.
+   See "systemctl status "netctl@wlp2s0\\x2dWifiKTX.service"" and "journalctl -xe" for details.
+
+   https://www.ostechnix.com/fix-job-netctl-service-failed-error-arch-linux/
+   sudo rm /etc/netctl/wlp9s0-sktab
+   sudo netctl status wlp9s0sktab
+   ~so I had enabled dhcpcd.service in systemd. This was the reason why my wifi hotspot refused to work.~
+   sudo systemctl stop dhcpcd.service
+   sudo systemctl disable dhcpcd.service
+   sudo rm -fr /var/lib/dhcpcd/dhcpcd-wlp9s0*
+   sudo rm /etc/systemd/system/multi-user.target.wants/netctl*
+   sudo rm -fr /etc/netctl/wlp9s0*
+
+   sudo netctl switch-to wlp2s0-WifiKTX
+* DONE keyboard as mouse
+  CLOSED: [2018-03-07 Wed 10:04]
+
+  Option "XkbOptions" "keypad:pointerkeys"
+  https://en.wikipedia.org/wiki/Mouse_keys
+  [coc@free ~]$ cat /etc/X11/xorg.conf.d/00-keyboard.conf 
+  # Written by systemd-localed(8), read by systemd-localed and Xorg. It's
+  # probably wise not to edit this file manually. Use localectl(1) to
+  # instruct systemd-localed to update it.
+  Section "InputClass"
+  Identifier "system-keyboard"
+  MatchIsKeyboard "on"
+  Option "XkbLayout" "us"
+  Option "XkbModel" "pc105+inet"
+  Option "XkbOptions" "terminate:ctrl_alt_bksp"
+  Option "XkbOptions" "keypad:pointerkeys"
+  # Option "XkbOptions" "caps:swapescape"
+  EndSection
+  [coc@free ~]$ 
+
+* DONE Change path
+  CLOSED: [2018-03-05 Mon 00:01]
+  [coc@free ~]$ hadoop version
+  /home/coc/hadoop-2.7.5/bin/hadoop: line 166: /usr/lib/jvm/java-8-openjdk/bin/java: No such file or directory
+  [[~/.hadoop-2.7.5/libexec/hadoop-config.sh]]
+  JAVA=/usr/lib/jvm/java-8-openjdk/jre/bin/java
+* TODO hadoop matrix multiplication
+  change bashrc environment
+  $HADOOP_HOME/share/hadoop/mapreduce/hadoop-mapreduce-examples-2.2.0.jar
+  export HADOOP_HOME=/usr/lib/hadoop
+  ↪ hadoop jar $HADOOP_HOME/share/hadoop/mapreduce/hadoop-mapreduce-examples-3.0.0.jar wordcount input output
+* DONE suspend i3 mod4+f
+  CLOSED: [2018-03-13 Tue 12:51]
+* DONE ve nha
+  CLOSED: [2018-03-07 Wed 10:05]
+  dep
+  khan mat
+  dau goi
+  choi tai
+
+* DONE install tor in archlinux
+  CLOSED: [2018-03-07 Wed 10:09]
+* DONE 3 ngay 150
+  CLOSED: [2018-03-11 Sun 15:27]
+* DONE 1 ngay 120 hit dat
+  CLOSED: [2018-03-11 Sun 15:28]
+
+* DONE to do list done
+  CLOSED: [2018-02-26 Mon 17:10]
+  todo insert in org-mode
+  C-c a t
+  hit t in normal mode org-file
+* DONE xmodmap reset
+  CLOSED: [2018-02-27 Tue 10:55]
+* DONE Verifying Hadoop dfs
+  CLOSED: [2018-02-26 Mon 16:15]
+  [coc@free ~]$ sudo start-dfs.sh 
+  Starting namenodes on [free]
+  free: Warning: Permanently added 'free,fe80::c95c:4b52:5679:255a%wlp2s0' (ECDSA) to the list of known hosts.
+  free: coc@free: Permission denied (publickey,password).
+  Starting datanodes
+  localhost: coc@localhost: Permission denied (publickey,password).
+  Starting secondary namenodes [free]
+  free: coc@free: Permission denied (publickey,password).
+  2018-02-25 23:59:15,353 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+* DONE warnings hadoop slaves
+  CLOSED: [2018-02-26 Mon 16:15]
+  [coc@free ~]$ hadoop
+  WARNING: HADOOP_SLAVES has been replaced by HADOOP_WORKERS. Using value of HADOOP_SLAVES.
+  delete slaves in hadoop
+
+  fix /etc/profile.d/hadoop.sh
+
+  export HADOOP_CONF_DIR=/etc/hadoop  
+  export HADOOP_LOG_DIR=/tmp/hadoop/log  
+  export HADOOP_WORKERS=/etc/hadoop/workers  
+  export HADOOP_PID_DIR=/tmp/hadoop/run  
+
+  unset HADOOP_SLAVES
+* DONE 18-21
+  CLOSED: [2018-02-26 Mon 16:15]
+**** chai nuoc
+**** 4 mi tom
+**** phong tu hoc
+* DONE lazada dat hang
+  CLOSED: [2018-02-26 Mon 16:15]
+  Địa chỉ KTX : Kí túc xá Khu A ĐHQG TPHCM, Đông Hòa, DĨ An, Bình DƯơng.
+  Quý khách sẽ thanh toán bằng tiền mặt khi nhận hàng tại nhà
+  Lưu ý:
+  - Bạn nhớ kiểm tra kỹ thông tin của đơn hàng bên phải vì thông tin này sẽ không thể thay đổi sau khi đơn hàng được xác nhận thành công.
+  - Lazada.vn sẽ không gửi tin nhắn xác nhận đơn hàng nên bạn vui lòng xem lại thông tin trong xác nhận đơn hàng được gửi qua email.
+  - Nhằm đảm bảo quyền lợi mua sắm cho các khách hàng cá nhân, Lazada sẽ giới hạn số lượng sản phẩm trong mỗi đơn hàng và chúng tôi xin phép từ chối đơn hàng có dấu hiệu mua đi bán lại.
+  - Hiện tại Lazada chưa thể hỗ trợ giao hàng lên lầu / tầng đối với các địa chỉ thuộc chung cư hoặc tòa nhà cao tầng.
+
+    Trong mọi trường hợp, trừ khi có yêu cầu khác đi, Quý Khách hàng sẽ nhận được hoá đơn theo thông tin cá nhân đã đăng ký khi mua hàng tại Lazada. Để chuyển đổi từ hóa đơn cho cá nhân sang hóa đơn cho doanh nghiệp, Quý Khách hàng vui lòng liên hệ Lazada trong vòng 7 ngày kể từ ngày đặt hàng. Sau thời gian trên, Lazada có toàn quyền từ chối hỗ trợ chuyển đổi.
+    
+
+  Chi tiết đơn hàng 381867253, bao gồm 1 sản phẩm được đặt In
+  Vũ Quang Nam
+  Kí túc xá Khu A ĐHQG TPHCM Toà nhà H1 phòng 402
+  Bình Dương-Thị Xã Dĩ An-Phường Đông Hòa
+  Thư xác nhận đã được gởi tới địa chỉ email doanvuong2008@gmail.com 
+  Economy vận chuyển
+  Giao hàng Thứ Hai, 5 - Thứ Năm, 8 Tháng 3 2018 
+  http://www.lazada.vn/routes/?action=viewOrderTracking&orderNr=381867253&email=doanvuong2008@gmail.com&utm_source=Orderconfirmation&utm_medium=Email&utm_campaign=TrackOrders
+*** gia han wifi
+    a07135424
+    98844107
+    WifiKTX
+    http://login.wifiktx.vn/
+    https://user.meganet.com.vn/#!/
+    https://user.meganet.com.vn/#!/extend
+
+    Key=toiyeu8438626
+*** table insert row
+    new rows ~C-c |~
+*** bash_profile vs bashrc
+    | bash_profile | login shell |
+    |--------------+-------------|
+    | bashrc       | terminal    |
+    http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html
+    Say, you’d like to print some lengthy diagnostic information about your machine
+    each time you login (load average, memory usage, current users, etc). You only
+    want to see it on login, so you only want to place this in your .bash_profile.
+    If you put it in your .bashrc, you’d see it every time you open a new terminal window.
+
+* DONE spacemacs git commit multiple file
+  CLOSED: [2018-03-07 Wed 10:09]
+  stage s
+  unstage u
+* DONE git origin/master and origin master
+  CLOSED: [2018-03-14 Wed 00:15]
+  master
+  master/origin is a branch
+** delete brach
+   - remote
+     git push -d <remote_name> <branch_name>
+     git branch -d <branch_name>
+   - local
+   git branch -d branch_name
+   git branch -D branch_name
+* DONE doc_command repos in git ( cannot push )
+  CLOSED: [2018-02-28 Wed 15:50]
+**** ↪ git push -u origin
+     fatal: The current branch origin/master has no upstream branch.
+     To push the current branch and set the remote as upstream, use
+     git push --set-upstream origin origin/master
+****  solved
+     ↪ git push -u origin --all
+     Counting objects: 16, done.
+     Delta compression using up to 4 threads.
+     Compressing objects: 100% (15/15), done.
+     Writing objects: 100% (16/16), 2.47 KiB | 1.24 MiB/s, done.
+     Total 16 (delta 7), reused 0 (delta 0)
+     remote: Resolving deltas: 100% (7/7), completed with 2 local objects.
+     To https://github.com/CocVu/DocCommand
+     * [new branch]      origin/master -> origin/master
+     Branch 'master' set up to track remote branch 'master' from 'origin'.
+     Branch 'origin/master' set up to track remote branch 'origin/master' from 'origin'.
+* DONE fish change to defaults bash
+  CLOSED: [2018-02-28 Wed 15:50]
+  [[/home/coc/.bashrc]]
+  if [ -n "$SSH_TTY" ]; then exec fish -C 'set -g fish_color_host brred'; else exec fish; fi
+* DONE finger in keyboard numbers rows
+  CLOSED: [2018-02-28 Wed 15:50]
+  [[/home/coc/plan/image/typing.png]]
+* DONE orgmode insert image
+  CLOSED: [2018-02-28 Wed 15:50]
+  [+[ link ]+]
+* DONE Thalassophobia
+  CLOSED: [2018-02-28 Wed 15:50]
+  Hội chứng sợ biển hay thalassophobia, bắt nguồn từ tiếng Hi Lạp: thalassa nghĩa là "sea", "biển" và φόβος, phobos là "fear", "sợ")[1] là chứng sợ biển, nỗi ám ảnh kinh hoàng (intense) đến từ sự mênh mông rộng lớn vô tận bí ẩn của đại dương
+* DONE git add file and push
+  CLOSED: [2018-02-28 Wed 15:50]
+  | state  | ~gs~      |
+  | commit | ~cc~      |
+  | exit   | ~C-c C-c~ |
+  | commit |           |
+  | push   | ~P-m~     |
+
+* DONE why charge battery 50% quick? 
+  CLOSED: [2018-02-28 Wed 15:50]
+  http://batteriesbyfisher.com/determining-charge-time
+  While recharging any battery, if the battery becomes hot when you touch it, stop charging it (a battery being charged should not get above 125 ferinheight).
+* DONE tables initializer spacemacs
+  CLOSED: [2018-02-28 Wed 15:50]
+  https://www.emacswiki.org/emacs/TableMode
+  tables capture
+  table mode in org files
+* DONE maintream
+  CLOSED: [2018-02-28 Wed 15:50]
+  in rapgod lyrics
+  I make elevating music, you make elevator music
+  Oh, he's too mainstream
+* DONE git in spacemacs
+  CLOSED: [2018-02-28 Wed 16:00]
+* DONE hadoop setup environment
+  CLOSED: [2018-02-28 Wed 15:51]
+**** warnings
+     [coc@free ~]$ hadoop
+     WARNING: HADOOP_SLAVES has been replaced by HADOOP_WORKERS. Using value of HADOOP_SLAVES.
+**** ~/etc/hadoop/hadoop-env.sh~
+     export JAVA_HOME=/usr/lib/jvm/java-8-openjdk/
+     JAVA=/usr/lib/jvm/java-8-openjdk/jre/bin/java
+**** ~/etc/profile.d/hadoop.sh~
+     HADOOP_USERNAME="hadoop"
+     . /etc/profile.d/hadoop.sh* fish change color
+* DONE paste in insert mode spacemacs
+  CLOSED: [2018-02-28 Wed 15:51]
+  C-a paste clip-board
+* DONE Play_Dungeons_Forever (steam)
+  CLOSED: [2018-02-27 Tue 19:42]
+  archlinux defragment disk 
+* DONE Environment variable warnings spacemacs
+  CLOSED: [2018-03-11 Sun 15:31]
+  (setq exec-path-from-shell-arguments '("-l"))
+  https://github.com/syl20bnr/spacemacs/issues/3920
+
+* DONE hadoop setup environment
+  CLOSED: [2018-02-28 Wed 15:51]
+**** errors
+     [coc@free ~]$ whereis hadoop
+     hadoop: /usr/bin/hadoop /usr/lib/hadoop /etc/hadoop
+     [coc@free ~]$ cat /usr/bin/hadoop 
+     #!/bin/sh
+     # Automatically generated by hadoop-3.0.0 PKGBUILD from Arch Linux AUR
+     # https://aur.archlinux.org/
+     for f in /etc/profile.d/*.sh; do
+     . "${f}"
+     done
+     /usr/lib/hadoop/bin/hadoop "$@"
+**** environment variables
+     ~/etc/profile.d/hadoop.sh~
+     HADOOP_CONF_DIR 	/etc/hadoop 	Where configuration files are stored. 	Read
+     HADOOP_LOG_DIR 	/tmp/hadoop/log 	Where log files are stored. 	Read and Write
+     HADOOP_SLAVES 	/etc/hadoop/slaves 	File naming remote slave hosts. 	Read
+     HADOOP_PID_DIR 	/tmp/hadoop/run 	Where pid files are stored. 	Read and Write 
+* DONE fix doc_command git repos 
+  CLOSED: [2018-02-28 Wed 15:51]
+  [coc@free doc_command]$ git push -u origin master 
+  Branch 'master' set up to track remote branch 'master' from 'origin'.
+  Everything up-to-date
+* DONE fish change color
+  CLOSED: [2018-02-28 Wed 15:51]
+  open fish
+  fish_config
+* DONE paste in insert mode spacemacs
+  CLOSED: [2018-02-28 Wed 15:53]
+* DONE org-mode get ticks symbols 
+  CLOSED: [2018-02-28 Wed 15:54]
+  symbol-list link
+  https://orgmode.org/worg/org-symbols.html
+* DONE qalc  
+  CLOSED: [2018-02-28 Wed 15:54]
+  ~/doc_command/install.sh
+  C-a insert mode
+* DONE permissions 
+  CLOSED: [2018-02-28 Wed 15:54]
+  ~/doc_command/linux.org
+* DONE fish install 
+  CLOSED: [2018-02-28 Wed 15:54]
+  ~/.config/fish/config.fish
+* DONE hadoop install
+  CLOSED: [2018-02-28 Wed 15:54]
+  ~/doc_command/hadoop.org
+  ERROR: Cannot execute /usr/lib/hadoop/bin/hadoop/libexec/hadoop-config.sh.
